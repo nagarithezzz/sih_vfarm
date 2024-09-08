@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552757643567",
+    "project_id": "v-farm-nagarith",
+    "storage_bucket": "v-farm-nagarith.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552757643567:android:60d8eb5c668076bab0b9da",
+        "android_client_info": {
+          "package_name": "com.example.vfarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOw80awObmO4TPdeYQRTqJ6ajDL7GTdZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
